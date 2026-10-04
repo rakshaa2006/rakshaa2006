@@ -115,28 +115,6 @@
 
 <br/>
 
-<!-- HACKATHONS & ACHIEVEMENTS -->
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3>🏅 Hackathons & Achievements</h3>
-        <ul>
-          <li>🔥 <b>Hackfest'26 (National Level)</b>: Selected in top 60 teams out of 700+ registered teams at NMAMIT, Nitte (2026).</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
-        <h3>📜 Workshops & Education</h3>
-        <ul>
-          <li>⚡ <b>Smart IoT Systems Design</b>: Hands-On Prototyping with ESP32 (3-day workshop).</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
 <!-- GITHUB ANALYTICS -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -163,7 +141,7 @@
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  Feel free to reach out for collaborations, hackathons, or opportunities!
+  Feel free to reach out for collaborations or opportunities!
 </p>
 
 <p align="center">
